@@ -219,8 +219,7 @@ make deploy           # deploy everything
 
 You get the full source code. No subscriptions, no license renewals. Use it in unlimited personal and commercial projects.
 
-**[Buy now — $59 →](https://enesdmc.lemonsqueezy.com/checkout/buy/28f8e3a1-d0c0-4a41-9ba5-9a2358516ba1)**
-
+**[Buy now — $59 →](https://enesdmc.lemonsqueezy.com/checkout/buy/fb1d94c4-4c80-47a4-acb2-c1093ff755c2?discount=0)**
 ---
 
 ## FAQ
